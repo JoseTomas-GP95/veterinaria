@@ -46,10 +46,8 @@ const tituloCitas = citas.length === 0 ? "Sin citas" : "Administra tus citas";
       <div className="container">
         <div className="row">
           <div className="one-half column">
-            1
           </div>
           <div className="one-half column">
-            2
           </div>
           <Formulario
             crearCita={crearCita}
